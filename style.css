@@ -38,7 +38,7 @@ body {
   top:-42.5px;
   left:-250px;
   animation: bubble-shrink 2.5s infinite linear;
-animation-delay: 5s}
+animation-delay: 1.1s}
 
 #bubble1 {
   width:250px;
